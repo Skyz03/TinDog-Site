@@ -50,3 +50,31 @@ h1 {
   width: 60%;
   transform: rotate(25deg);
 }
+
+/* Feature Section */
+
+#features {
+  padding: 7% 5%;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.feature {
+  padding: 3%;
+  text-align: center;
+}
+
+.icons {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icons:hover {
+  color: #ff4c68;
+}
+
+.feature-title {
+  font-weight: bold;
+}
